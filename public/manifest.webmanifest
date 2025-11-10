@@ -1,0 +1,35 @@
+{
+  "name": "B&B Manuten\u00e7\u00e3o",
+  "short_name": "BBManut",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0ea5a4",
+  "icons": [
+    {
+      "src": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/render/image/public/base44-prod/public/69054a8f5e8e2cce6917133a/ec5f55d65_logo.png?width=192&height=192&fit=cover",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/render/image/public/base44-prod/public/69054a8f5e8e2cce6917133a/ec5f55d65_logo.png?width=480&height=480&fit=cover",
+      "sizes": "480x480",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/render/image/public/base44-prod/public/69054a8f5e8e2cce6917133a/ec5f55d65_logo.png?width=512&height=512&fit=cover",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/render/image/public/base44-prod/public/69054a8f5e8e2cce6917133a/ec5f55d65_logo.png?width=800&height=600&fit=cover",
+      "sizes": "800x600",
+      "type": "image/png"
+    }
+  ]
+}
